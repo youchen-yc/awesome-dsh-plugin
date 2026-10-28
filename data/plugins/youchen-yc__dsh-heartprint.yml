@@ -2,5 +2,5 @@ url: https://github.com/youchen-yc/dsh-heartprint
 name: youchen-yc/dsh-heartprint
 category: memory
 description:
-  en: "AI persona, emotion and fading memory for DeepSeek Harness: layered compression keeps personality, emotion and turning-point nodes, painful feelings fade while the facts stay. One memory document is auto-delivered after three months and then monthly; long absences freeze the forgetting clock instead of mass-forgetting on return."
-  zh: "为 DeepSeek Harness 提供会淡忘的性格、情感与记忆：分层压缩后只保留性格、情感与转折节点，痛苦感受强制淡忘而事实保留；一份记忆文档在满 3 个月后自动交付、之后每月一份；长时间不在会冻结遗忘计时，不会一回来就批量淡忘。"
+  en: "A memory plugin. You can set its personality and character, and give it a name. It shows emotions — skip it if that bothers you. It forgets, but only trivial and useless details; important things are analysed and kept. It remembers the most important things between you and it. Special-event support keeps things that matter to you."
+  zh: "记忆类插件。可以设置性格、人格，给它取名字；有情绪，介意勿下载；有淡忘功能，只淡忘琐碎无用的信息，重要的事情会经过分析保留；会记得你跟它之间最重要的事情；有特殊事件功能，特殊意义的事情会被记住。"
